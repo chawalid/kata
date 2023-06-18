@@ -9,15 +9,15 @@ Les logiciels suivants doivent être installés sur votre machine :
 ### Instructions :
 
   - Télécharger l'ensemble du projet
-  - Démarrer la partie back dans gbsuftblai-back : 
+  - Démarrer la partie back dans kataforfun-back : 
   ```bash
   mvn spring-boot:run
   ```
-  - Installer bootstrap si non installé dans gbsuftblai-ui : 
+  - Installer bootstrap si non installé dans kataforfun-ui : 
   ```bash
   npm install bootstrap@3 --save
   ```
-  - Démarrer la partie front dans gbsuftblai-ui : 
+  - Démarrer la partie front dans kataforfun-ui : 
   ```bash
   ng serve
   ```
